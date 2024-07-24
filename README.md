@@ -1,5 +1,5 @@
 # Predicting effective temperature in a chicken barn 
-# Part II Benchmarking timeseries prediction against non-linear regression
+## Part II Benchmarking timeseries prediction against non-linear regression
 
 Meat chickens, also called broilers, in intensive rearing live in closed, controlled environment for about 36-42 days (depending on the target market) before they are brought to the abattoir. During this time, the thermal environment is very important, as chickens have no sweat glands and are prone to suffer from both cold and hot temperatures. Chickens manage their core temperature through heat exchange via their feet and their respiration, but are able to do so only after about 10 days of life. The so-called *thermo-neutral* zone of a chicken, i.e. the thermal range that allows a chicken to maintain a constant core temperature grows over time - the exact ranges are not currently known.
 
